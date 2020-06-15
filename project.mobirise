@@ -51,7 +51,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
-    "uniqCompNum": 117,
+    "uniqCompNum": 121,
     "versionPublish": "4.12.0",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "screenshot": "screenshot.png",
@@ -68,7 +68,21 @@
       "textButton": "Aceptar."
     },
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-169273343-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-169273343-1');\n</script>",
-    "gdpr": false
+    "witsec-mailform-to": "maxemprendeycrece@gmail.com",
+    "witsec-mailform-from": "maxemprendeycrece@gmail.com",
+    "witsec-mailform-from-them": false,
+    "witsec-mailform-from-name": "Max Emprende",
+    "witsec-mailform-from-name-them": false,
+    "witsec-mailform-from-name-them-field": "{name}",
+    "witsec-mailform-template": "Hola\nHaz recibido este mensaje desde la página oficial de Max Emprende, muchas gracias.\n\n{formdata}\n\nDate: {date}\nRemote IP: {ip}\n\nHave a nice day.",
+    "witsec-mailform-recaptcha": false,
+    "witsec-mailform-recaptcha-sitekey": "",
+    "witsec-mailform-recaptcha-secretkey": "",
+    "witsec-mailform-recaptcha-score": "0.5",
+    "witsec-mailform-recaptcha-hidebadge": false,
+    "gdpr": false,
+    "witsec-mailform": true,
+    "witsec-white-label": true
   },
   "pages": {
     "coaching.html": {
@@ -2759,6 +2773,29 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "HTMLCode": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/e240590d6b3c7b506995c3e14/b2c1293e9d7a7ffc1f208f6d3.js\");</script>",
+            "hideOnPublish": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "HTMLCode": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/e240590d6b3c7b506995c3e14/b2c1293e9d7a7ffc1f208f6d3.js\");</script>",
+          "alias": "witsec-custom-html",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "witsec-custom-html-block",
+          "_anchor": "witsec-custom-html-block-3b"
         },
         {
           "alias": false,

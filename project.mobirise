@@ -2776,7 +2776,7 @@
         },
         {
           "_params": {
-            "HTMLCode": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/e240590d6b3c7b506995c3e14/b2c1293e9d7a7ffc1f208f6d3.js\");</script>",
+            "HTMLCode": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/e240590d6b3c7b506995c3e14/b2c1293e9d7a7ffc1f208f6d3.js\");</script>\n",
             "hideOnPublish": true,
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -2789,7 +2789,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/e240590d6b3c7b506995c3e14/b2c1293e9d7a7ffc1f208f6d3.js\");</script>",
+          "HTMLCode": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/e240590d6b3c7b506995c3e14/b2c1293e9d7a7ffc1f208f6d3.js\");</script>\n",
           "alias": "witsec-custom-html",
           "_tags": [
             "Extension"

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Max Emprende",
-    "currentPage": "Contenido.html",
+    "currentPage": "contenido.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5898,7 +5898,7 @@
         }
       ]
     },
-    "Contenido.html": {
+    "contenido.html": {
       "settings": {
         "meta_descr": "Max Emprende",
         "title": "Max Emprende",
